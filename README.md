@@ -5,6 +5,7 @@
 **Task Manager** is a full-stack web application for managing tasks, built with **Docker**. The project includes **Frontend + Backend + Database**, with **Nginx** as a reverse proxy.
 
 ---
+![Project Architecture](/images/arch.png)
 
 ## 🏗️ Project Structure
 
