@@ -41,6 +41,4 @@ All containers are connected via an internal Docker Network.
 
 ---
 
-This is **ready to push** as your README without any image references.  
 
-If you want, I can also make a **full one-step git command block** to push this README to GitHub in one go.
